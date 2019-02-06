@@ -217,6 +217,8 @@ In conclusion, those people who are happiest may have the following features:
 
 4.Live in Norway(or other happiest countries)
 
+5.In their 30s or 70s.
+
 I personally fulfill the top 3 requirements. But I am not so happy. :) 
 
 ![Sentiment across the world](/Users/zhongming/Documents/GitHub/Spring2019-Proj1-silverbulletKID/figs/201851549414208_.pic_hd.jpg)
